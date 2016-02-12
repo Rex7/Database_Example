@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjectUi</string>
+    <string name="First_name">First Name</string>
+    <string name="Last_name">Last Name</string>
+    <string name="Course">Course</string>
+    <string name="Email_id">Email Id</string>
+    <string name="Phone_no">Phone No</string>
+    <string name="Joining_Year">Joining Year</string>
+    <string name="Create_Account">Create Account</string>
+    <string name="Title">Record Of Student</string>
+</resources>
